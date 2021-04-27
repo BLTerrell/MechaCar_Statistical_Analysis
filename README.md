@@ -12,7 +12,7 @@
 - The slope of the linear model is not zero (we rejected our null hypothesis of the slope of the linear model is zero), because the p-value of our linear regression analysis was 5.35e-11 which is magnitudes below our significance level of 0.05.
 
 <strong>Does the linear model predict mpg of MechaCar prototypes effectively? Why or Why not?</strong>
-- One could could argue that because our model has an r-squared value of approximately 0.71 that this is a good model. However, I do not think it wiil predict mpg of future prototypes effectively because of overfitting. Only 2 of the 5 variables had a significant contribution to linear model with the current data. The remaining 3 variables might affect the accuracy of future predicted data.
+- One could could argue that because our model has an r-squared value of approximately 0.71 that this is a good model. However, I do not think it wiil predict mpg of future prototypes effectively because of overfitting. Only 2 of the 5 variables had a significant contribution to the linear model with the current data. The remaining 3 variables might affect the accuracy of future predicted data.
 
 ## Summary Statistics on Suspension Coils
 
